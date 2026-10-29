@@ -1,0 +1,14 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+outputs/
+checkpoints/
+*.safetensors
+*.gguf
+*.bin
+*.pt
+train.jsonl
+baseline_log.json
+.env
