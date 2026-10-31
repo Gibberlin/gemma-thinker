@@ -12,3 +12,8 @@ checkpoints/
 train.jsonl
 baseline_log.json
 .env
+outputs_rft/
+outputs_rft2/
+train_rft.jsonl
+train_rft2.jsonl
+*.txt
