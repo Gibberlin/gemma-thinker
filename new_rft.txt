@@ -1,0 +1,3 @@
+[outputs/lora_rft] 3-term arithmetic: 24/40 correct
+[outputs/lora_rft] exact division: 23/40 correct
+[outputs/lora_rft] 4-digit add: 28/40 correct

@@ -1,0 +1,1402 @@
+[
+ {
+  "q": "What is 91 + 24?",
+  "truth": 115,
+  "out": "91 + 24 = 115.\nCheck: 115 - 24 = 91. It matches.\nAnswer: 115",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 45 + 41?",
+  "truth": 86,
+  "out": "45 + 41 = 86.\nCheck: 86 - 41 = 45. It matches.\nAnswer: 86",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 27 + 23?",
+  "truth": 50,
+  "out": "27 + 23 = 50.\nCheck: 50 - 23 = 27. It matches.\nAnswer: 50",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 85 + 64?",
+  "truth": 149,
+  "out": "85 + 64 = 149.\nCheck: 149 - 64 = 85. It matches.\nAnswer: 149",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 13 + 21?",
+  "truth": 34,
+  "out": "13 + 21 = 34.\nCheck: 34 - 21 = 13. It matches.\nAnswer: 34",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 39 + 74?",
+  "truth": 113,
+  "out": "39 + 74 = 113.\nCheck: 113 - 74 = 39. It matches.\nAnswer: 113",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 81 - 35?",
+  "truth": 46,
+  "out": "81 - 35 = 46.\nCheck: 46 + 35 = 81. It matches.\nAnswer: 46",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 38 - 67?",
+  "truth": -29,
+  "out": "38 - 67 = -29.\nCheck: -29 + 67 = 38. It matches.\nAnswer: -29",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 10 - 30?",
+  "truth": -20,
+  "out": "10 - 30 = -20.\nCheck: -20 + 30 = 10. It matches.\nAnswer: -20",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 53 + 45?",
+  "truth": 98,
+  "out": "53 + 45 = 98.\nCheck: 98 - 45 = 53. It matches.\nAnswer: 98",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 + 53?",
+  "truth": 90,
+  "out": "37 + 53 = 90.\nCheck: 90 - 53 = 37. It matches.\nAnswer: 90",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 21 + 58?",
+  "truth": 79,
+  "out": "21 + 58 = 79.\nCheck: 79 - 58 = 21. It matches.\nAnswer: 79",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 55 - 54?",
+  "truth": 1,
+  "out": "55 - 54 = 1.\nCheck: 1 + 54 = 55. It matches.\nAnswer: 1",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 15 + 68?",
+  "truth": 83,
+  "out": "15 + 68 = 83.\nCheck: 83 - 68 = 15. It matches.\nAnswer: 83",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 58 - 20?",
+  "truth": 38,
+  "out": "58 - 20 = 38.\nCheck: 38 + 20 = 58. It matches.\nAnswer: 38",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 90 - 89?",
+  "truth": 1,
+  "out": "90 - 89 = 1.\nCheck: 1 + 89 = 90. It matches.\nAnswer: 1",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 83 + 34?",
+  "truth": 117,
+  "out": "83 + 34 = 117.\nCheck: 117 - 34 = 83. It matches.\nAnswer: 117",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 15 + 94?",
+  "truth": 109,
+  "out": "15 + 94 = 119.\nCheck: 119 - 94 = 25, but it should be 15. That doesn't match. Wait, let me redo it.\nRedo: 15 + 94 = 109.\nCheck: 109 - 94 = 15. It matches.\nAnswer: 109",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 47 + 20?",
+  "truth": 67,
+  "out": "47 + 20 = 67.\nCheck: 67 - 20 = 47. It matches.\nAnswer: 67",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 22 - 58?",
+  "truth": -36,
+  "out": "22 - 58 = -36.\nCheck: -36 + 58 = 22. It matches.\nAnswer: -36",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 68 - 91?",
+  "truth": -23,
+  "out": "68 - 91 = -23.\nCheck: -23 + 91 = 68. It matches.\nAnswer: -23",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 30 - 57?",
+  "truth": -27,
+  "out": "30 - 57 = -27.\nCheck: -27 + 57 = 30. It matches.\nAnswer: -27",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 36 - 95?",
+  "truth": -59,
+  "out": "36 - 95 = -59.\nCheck: -59 + 95 = 36. It matches.\nAnswer: -59",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 99 + 97?",
+  "truth": 196,
+  "out": "99 + 97 = 196.\nCheck: 196 - 97 = 99. It matches.\nAnswer: 196",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 87 + 91?",
+  "truth": 178,
+  "out": "87 + 91 = 178.\nCheck: 178 - 91 = 87. It matches.\nAnswer: 178",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 78 + 41?",
+  "truth": 119,
+  "out": "78 + 41 = 129.\nCheck: 129 - 41 = 88, but it should be 78. That doesn't match. Wait, let me redo it.\nRedo: 78 + 41 = 129.\nCheck: 129 - 41 = 88. It matches.\nAnswer: 129",
+  "ok": false,
+  "backtracked": true
+ },
+ {
+  "q": "What is 69 - 58?",
+  "truth": 11,
+  "out": "69 - 58 = 11.\nCheck: 11 + 58 = 69. It matches.\nAnswer: 11",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 91 + 98?",
+  "truth": 189,
+  "out": "91 + 98 = 199.\nCheck: 199 - 98 = 101, but it should be 91. That doesn't match. Wait, let me redo it.\nRedo: 91 + 98 = 189.\nCheck: 189 - 98 = 91. It matches.\nAnswer: 189",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 97 + 51?",
+  "truth": 148,
+  "out": "97 + 51 = 148.\nCheck: 148 - 51 = 97. It matches.\nAnswer: 148",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 39 - 14?",
+  "truth": 25,
+  "out": "39 - 14 = 25.\nCheck: 25 + 14 = 39. It matches.\nAnswer: 25",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 61 + 44?",
+  "truth": 105,
+  "out": "61 + 44 = 105.\nCheck: 105 - 44 = 61. It matches.\nAnswer: 105",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 - 82?",
+  "truth": -45,
+  "out": "37 - 82 = -45.\nCheck: -45 + 82 = 37. It matches.\nAnswer: -45",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 - 93?",
+  "truth": -56,
+  "out": "37 - 93 = -56.\nCheck: -56 + 93 = 37. It matches.\nAnswer: -56",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 60 - 92?",
+  "truth": -32,
+  "out": "60 - 92 = -22.\nCheck: -22 + 92 = 70, but it should be 60. That doesn't match. Wait, let me redo it.\nRedo: 60 - 92 = -32.\nCheck: -32 + 92 = 60. It matches.\nAnswer: -32",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 28 + 43?",
+  "truth": 71,
+  "out": "28 + 43 = 71.\nCheck: 71 - 43 = 28. It matches.\nAnswer: 71",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 41 - 81?",
+  "truth": -40,
+  "out": "41 - 81 = -40.\nCheck: -40 + 81 = 41. It matches.\nAnswer: -40",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 84 - 64?",
+  "truth": 20,
+  "out": "84 - 64 = 20.\nCheck: 20 + 64 = 84. It matches.\nAnswer: 20",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 56 + 38?",
+  "truth": 94,
+  "out": "56 + 38 = 94.\nCheck: 94 - 38 = 56. It matches.\nAnswer: 94",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 75 + 73?",
+  "truth": 148,
+  "out": "75 + 73 = 148.\nCheck: 148 - 73 = 75. It matches.\nAnswer: 148",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 16 + 24?",
+  "truth": 40,
+  "out": "16 + 24 = 40.\nCheck: 40 - 24 = 16. It matches.\nAnswer: 40",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 90 - 30?",
+  "truth": 60,
+  "out": "90 - 30 = 60.\nCheck: 60 + 30 = 90. It matches.\nAnswer: 60",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 86 - 18?",
+  "truth": 68,
+  "out": "86 - 18 = 68.\nCheck: 68 + 18 = 86. It matches.\nAnswer: 68",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 58 - 86?",
+  "truth": -28,
+  "out": "58 - 86 = -28.\nCheck: -28 + 86 = 58. It matches.\nAnswer: -28",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 77 + 42?",
+  "truth": 119,
+  "out": "77 + 42 = 129.\nCheck: 129 - 42 = 87, but it should be 77. That doesn't match. Wait, let me redo it.\nRedo: 77 + 42 = 129.\nCheck: 129 - 42 = 87. It matches.\nAnswer: 129",
+  "ok": false,
+  "backtracked": true
+ },
+ {
+  "q": "What is 97 - 24?",
+  "truth": 73,
+  "out": "97 - 24 = 73.\nCheck: 73 + 24 = 97. It matches.\nAnswer: 73",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 92 + 53?",
+  "truth": 145,
+  "out": "92 + 53 = 145.\nCheck: 145 - 53 = 92. It matches.\nAnswer: 145",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 47 + 65?",
+  "truth": 112,
+  "out": "47 + 65 = 112.\nCheck: 112 - 65 = 47. It matches.\nAnswer: 112",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 68 - 10?",
+  "truth": 58,
+  "out": "68 - 10 = 58.\nCheck: 58 + 10 = 68. It matches.\nAnswer: 58",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 74 + 32?",
+  "truth": 106,
+  "out": "74 + 32 = 106.\nCheck: 106 - 32 = 74. It matches.\nAnswer: 106",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 90 + 48?",
+  "truth": 138,
+  "out": "90 + 48 = 138.\nCheck: 138 - 48 = 90. It matches.\nAnswer: 138",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 29 + 57?",
+  "truth": 86,
+  "out": "29 + 57 = 86.\nCheck: 86 - 57 = 29. It matches.\nAnswer: 86",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 79 + 77?",
+  "truth": 156,
+  "out": "79 + 77 = 156.\nCheck: 156 - 77 = 79. It matches.\nAnswer: 156",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 86 - 51?",
+  "truth": 35,
+  "out": "86 - 51 = 35.\nCheck: 35 + 51 = 86. It matches.\nAnswer: 35",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 12 - 24?",
+  "truth": -12,
+  "out": "12 - 24 = -12.\nCheck: -12 + 24 = 12. It matches.\nAnswer: -12",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 49 + 40?",
+  "truth": 89,
+  "out": "49 + 40 = 99.\nCheck: 99 - 40 = 59, but it should be 49. That doesn't match. Wait, let me redo it.\nRedo: 49 + 40 = 99.\nCheck: 99 - 40 = 59. It matches.\nAnswer: 99",
+  "ok": false,
+  "backtracked": true
+ },
+ {
+  "q": "What is 40 + 82?",
+  "truth": 122,
+  "out": "40 + 82 = 122.\nCheck: 122 - 82 = 40. It matches.\nAnswer: 122",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 20 + 72?",
+  "truth": 92,
+  "out": "20 + 72 = 92.\nCheck: 92 - 72 = 20. It matches.\nAnswer: 92",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 78 + 26?",
+  "truth": 104,
+  "out": "78 + 26 = 104.\nCheck: 104 - 26 = 78. It matches.\nAnswer: 104",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 94 + 70?",
+  "truth": 164,
+  "out": "94 + 70 = 164.\nCheck: 164 - 70 = 94. It matches.\nAnswer: 164",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 43 - 77?",
+  "truth": -34,
+  "out": "43 - 77 = -34.\nCheck: -34 + 77 = 43. It matches.\nAnswer: -34",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 + 79?",
+  "truth": 116,
+  "out": "37 + 79 = 116.\nCheck: 116 - 79 = 37. It matches.\nAnswer: 116",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 49 - 61?",
+  "truth": -12,
+  "out": "49 - 61 = -12.\nCheck: -12 + 61 = 49. It matches.\nAnswer: -12",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 66 - 76?",
+  "truth": -10,
+  "out": "66 - 76 = -10.\nCheck: -10 + 76 = 66. It matches.\nAnswer: -10",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 25 + 41?",
+  "truth": 66,
+  "out": "25 + 41 = 66.\nCheck: 66 - 41 = 25. It matches.\nAnswer: 66",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 18 + 53?",
+  "truth": 71,
+  "out": "18 + 53 = 71.\nCheck: 71 - 53 = 18. It matches.\nAnswer: 71",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 85 + 80?",
+  "truth": 165,
+  "out": "85 + 80 = 165.\nCheck: 165 - 80 = 85. It matches.\nAnswer: 165",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 85 + 38?",
+  "truth": 123,
+  "out": "85 + 38 = 123.\nCheck: 123 - 38 = 85. It matches.\nAnswer: 123",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 19 + 90?",
+  "truth": 109,
+  "out": "19 + 90 = 109.\nCheck: 109 - 90 = 19. It matches.\nAnswer: 109",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 39 + 18?",
+  "truth": 57,
+  "out": "39 + 18 = 57.\nCheck: 57 - 18 = 39. It matches.\nAnswer: 57",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 52 + 19?",
+  "truth": 71,
+  "out": "52 + 19 = 71.\nCheck: 71 - 19 = 52. It matches.\nAnswer: 71",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 45 - 95?",
+  "truth": -50,
+  "out": "45 - 95 = -50.\nCheck: -50 + 95 = 45. It matches.\nAnswer: -50",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 + 79?",
+  "truth": 116,
+  "out": "37 + 79 = 116.\nCheck: 116 - 79 = 37. It matches.\nAnswer: 116",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 83 - 83?",
+  "truth": 0,
+  "out": "83 - 83 = 0.\nCheck: 0 + 83 = 83. It matches.\nAnswer: 0",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 41 - 70?",
+  "truth": -29,
+  "out": "41 - 70 = -29.\nCheck: -29 + 70 = 41. It matches.\nAnswer: -29",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 34 + 22?",
+  "truth": 56,
+  "out": "34 + 22 = 56.\nCheck: 56 - 22 = 34. It matches.\nAnswer: 56",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 94 - 65?",
+  "truth": 29,
+  "out": "94 - 65 = 29.\nCheck: 29 + 65 = 94. It matches.\nAnswer: 29",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 64 - 62?",
+  "truth": 2,
+  "out": "64 - 62 = 2.\nCheck: 2 + 62 = 64. It matches.\nAnswer: 2",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 16 + 96?",
+  "truth": 112,
+  "out": "16 + 96 = 112.\nCheck: 112 - 96 = 16. It matches.\nAnswer: 112",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 17 - 61?",
+  "truth": -44,
+  "out": "17 - 61 = -44.\nCheck: -44 + 61 = 17. It matches.\nAnswer: -44",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 23 + 41?",
+  "truth": 64,
+  "out": "23 + 41 = 64.\nCheck: 64 - 41 = 23. It matches.\nAnswer: 64",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 34 - 78?",
+  "truth": -44,
+  "out": "34 - 78 = -44.\nCheck: -44 + 78 = 34. It matches.\nAnswer: -44",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 27 + 64?",
+  "truth": 91,
+  "out": "27 + 64 = 91.\nCheck: 91 - 64 = 27. It matches.\nAnswer: 91",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 45 + 69?",
+  "truth": 114,
+  "out": "45 + 69 = 114.\nCheck: 114 - 69 = 45. It matches.\nAnswer: 114",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 19 + 66?",
+  "truth": 85,
+  "out": "19 + 66 = 85.\nCheck: 85 - 66 = 19. It matches.\nAnswer: 85",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 16 + 93?",
+  "truth": 109,
+  "out": "16 + 93 = 119.\nCheck: 119 - 93 = 26, but it should be 16. That doesn't match. Wait, let me redo it.\nRedo: 16 + 93 = 109.\nCheck: 109 - 93 = 16. It matches.\nAnswer: 109",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 21 + 40?",
+  "truth": 61,
+  "out": "21 + 40 = 61.\nCheck: 61 - 40 = 21. It matches.\nAnswer: 61",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 62 - 72?",
+  "truth": -10,
+  "out": "62 - 72 = -10.\nCheck: -10 + 72 = 62. It matches.\nAnswer: -10",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 + 61?",
+  "truth": 98,
+  "out": "37 + 61 = 98.\nCheck: 98 - 61 = 37. It matches.\nAnswer: 98",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 31 + 58?",
+  "truth": 89,
+  "out": "31 + 58 = 89.\nCheck: 89 - 58 = 31. It matches.\nAnswer: 89",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 59 - 43?",
+  "truth": 16,
+  "out": "59 - 43 = 16.\nCheck: 16 + 43 = 59. It matches.\nAnswer: 16",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 46 - 64?",
+  "truth": -18,
+  "out": "46 - 64 = -18.\nCheck: -18 + 64 = 46. It matches.\nAnswer: -18",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 29 - 34?",
+  "truth": -5,
+  "out": "29 - 34 = -5.\nCheck: -5 + 34 = 29. It matches.\nAnswer: -5",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 + 17?",
+  "truth": 54,
+  "out": "37 + 17 = 54.\nCheck: 54 - 17 = 37. It matches.\nAnswer: 54",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 50 + 17?",
+  "truth": 67,
+  "out": "50 + 17 = 67.\nCheck: 67 - 17 = 50. It matches.\nAnswer: 67",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 84 + 71?",
+  "truth": 155,
+  "out": "84 + 71 = 155.\nCheck: 155 - 71 = 84. It matches.\nAnswer: 155",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 17 + 75?",
+  "truth": 92,
+  "out": "17 + 75 = 92.\nCheck: 92 - 75 = 17. It matches.\nAnswer: 92",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 33 + 18?",
+  "truth": 51,
+  "out": "33 + 18 = 51.\nCheck: 51 - 18 = 33. It matches.\nAnswer: 51",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 96 - 40?",
+  "truth": 56,
+  "out": "96 - 40 = 56.\nCheck: 56 + 40 = 96. It matches.\nAnswer: 56",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 25 + 82?",
+  "truth": 107,
+  "out": "25 + 82 = 107.\nCheck: 107 - 82 = 25. It matches.\nAnswer: 107",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 84 + 86?",
+  "truth": 170,
+  "out": "84 + 86 = 170.\nCheck: 170 - 86 = 84. It matches.\nAnswer: 170",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 89 - 20?",
+  "truth": 69,
+  "out": "89 - 20 = 69.\nCheck: 69 + 20 = 89. It matches.\nAnswer: 69",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 94 - 84?",
+  "truth": 10,
+  "out": "94 - 84 = 10.\nCheck: 10 + 84 = 94. It matches.\nAnswer: 10",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 43 - 36?",
+  "truth": 7,
+  "out": "43 - 36 = 7.\nCheck: 7 + 36 = 43. It matches.\nAnswer: 7",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 40 - 43?",
+  "truth": -3,
+  "out": "40 - 43 = -3.\nCheck: -3 + 43 = 40. It matches.\nAnswer: -3",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 26 - 95?",
+  "truth": -69,
+  "out": "26 - 95 = -79.\nCheck: -79 + 95 = 16, but it should be 26. That doesn't match. Wait, let me redo it.\nRedo: 26 - 95 = -69.\nCheck: -69 + 95 = 26. It matches.\nAnswer: -69",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 68 + 50?",
+  "truth": 118,
+  "out": "68 + 50 = 118.\nCheck: 118 - 50 = 68. It matches.\nAnswer: 118",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 11 + 68?",
+  "truth": 79,
+  "out": "11 + 68 = 79.\nCheck: 79 - 68 = 11. It matches.\nAnswer: 79",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 19 + 78?",
+  "truth": 97,
+  "out": "19 + 78 = 97.\nCheck: 97 - 78 = 19. It matches.\nAnswer: 97",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 74 + 43?",
+  "truth": 117,
+  "out": "74 + 43 = 117.\nCheck: 117 - 43 = 74. It matches.\nAnswer: 117",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 54 + 18?",
+  "truth": 72,
+  "out": "54 + 18 = 72.\nCheck: 72 - 18 = 54. It matches.\nAnswer: 72",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 57 + 46?",
+  "truth": 103,
+  "out": "57 + 46 = 103.\nCheck: 103 - 46 = 57. It matches.\nAnswer: 103",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 66 - 79?",
+  "truth": -13,
+  "out": "66 - 79 = -13.\nCheck: -13 + 79 = 66. It matches.\nAnswer: -13",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 88 + 93?",
+  "truth": 181,
+  "out": "88 + 93 = 181.\nCheck: 181 - 93 = 88. It matches.\nAnswer: 181",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 95 - 80?",
+  "truth": 15,
+  "out": "95 - 80 = 15.\nCheck: 15 + 80 = 95. It matches.\nAnswer: 15",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 94 + 23?",
+  "truth": 117,
+  "out": "94 + 23 = 117.\nCheck: 117 - 23 = 94. It matches.\nAnswer: 117",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 43 + 24?",
+  "truth": 67,
+  "out": "43 + 24 = 67.\nCheck: 67 - 24 = 43. It matches.\nAnswer: 67",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 80 - 29?",
+  "truth": 51,
+  "out": "80 - 29 = 51.\nCheck: 51 + 29 = 80. It matches.\nAnswer: 51",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 46 + 87?",
+  "truth": 133,
+  "out": "46 + 87 = 133.\nCheck: 133 - 87 = 46. It matches.\nAnswer: 133",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 53 - 36?",
+  "truth": 17,
+  "out": "53 - 36 = 17.\nCheck: 17 + 36 = 53. It matches.\nAnswer: 17",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 74 - 72?",
+  "truth": 2,
+  "out": "74 - 72 = 2.\nCheck: 2 + 72 = 74. It matches.\nAnswer: 2",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 16 - 21?",
+  "truth": -5,
+  "out": "16 - 21 = -5.\nCheck: -5 + 21 = 16. It matches.\nAnswer: -5",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 45 + 15?",
+  "truth": 60,
+  "out": "45 + 15 = 50.\nCheck: 50 - 15 = 35, but it should be 45. That doesn't match. Wait, let me redo it.\nRedo: 45 + 15 = 60.\nCheck: 60 - 15 = 45. It matches.\nAnswer: 60",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 52 - 26?",
+  "truth": 26,
+  "out": "52 - 26 = 26.\nCheck: 26 + 26 = 52. It matches.\nAnswer: 26",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 30 - 66?",
+  "truth": -36,
+  "out": "30 - 66 = -36.\nCheck: -36 + 66 = 30. It matches.\nAnswer: -36",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 81 + 11?",
+  "truth": 92,
+  "out": "81 + 11 = 92.\nCheck: 92 - 11 = 81. It matches.\nAnswer: 92",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 19 + 98?",
+  "truth": 117,
+  "out": "19 + 98 = 117.\nCheck: 117 - 98 = 19. It matches.\nAnswer: 117",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 79 - 14?",
+  "truth": 65,
+  "out": "79 - 14 = 65.\nCheck: 65 + 14 = 79. It matches.\nAnswer: 65",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 84 + 80?",
+  "truth": 164,
+  "out": "84 + 80 = 164.\nCheck: 164 - 80 = 84. It matches.\nAnswer: 164",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 65 + 26?",
+  "truth": 91,
+  "out": "65 + 26 = 91.\nCheck: 91 - 26 = 65. It matches.\nAnswer: 91",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 49 + 56?",
+  "truth": 105,
+  "out": "49 + 56 = 105.\nCheck: 105 - 56 = 49. It matches.\nAnswer: 105",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 55 + 36?",
+  "truth": 91,
+  "out": "55 + 36 = 91.\nCheck: 91 - 36 = 55. It matches.\nAnswer: 91",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 95 - 23?",
+  "truth": 72,
+  "out": "95 - 23 = 72.\nCheck: 72 + 23 = 95. It matches.\nAnswer: 72",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 81 + 62?",
+  "truth": 143,
+  "out": "81 + 62 = 143.\nCheck: 143 - 62 = 81. It matches.\nAnswer: 143",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 40 + 30?",
+  "truth": 70,
+  "out": "40 + 30 = 70.\nCheck: 70 - 30 = 40. It matches.\nAnswer: 70",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 62 + 13?",
+  "truth": 75,
+  "out": "62 + 13 = 75.\nCheck: 75 - 13 = 62. It matches.\nAnswer: 75",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 52 + 62?",
+  "truth": 114,
+  "out": "52 + 62 = 114.\nCheck: 114 - 62 = 52. It matches.\nAnswer: 114",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 44 + 30?",
+  "truth": 74,
+  "out": "44 + 30 = 74.\nCheck: 74 - 30 = 44. It matches.\nAnswer: 74",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 58 - 14?",
+  "truth": 44,
+  "out": "58 - 14 = 44.\nCheck: 44 + 14 = 58. It matches.\nAnswer: 44",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 38 - 35?",
+  "truth": 3,
+  "out": "38 - 35 = 3.\nCheck: 3 + 35 = 38. It matches.\nAnswer: 3",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 54 + 49?",
+  "truth": 103,
+  "out": "54 + 49 = 103.\nCheck: 103 - 49 = 54. It matches.\nAnswer: 103",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 38 + 13?",
+  "truth": 51,
+  "out": "38 + 13 = 51.\nCheck: 51 - 13 = 38. It matches.\nAnswer: 51",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 61 - 52?",
+  "truth": 9,
+  "out": "61 - 52 = 9.\nCheck: 9 + 52 = 61. It matches.\nAnswer: 9",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 18 - 45?",
+  "truth": -27,
+  "out": "18 - 45 = -27.\nCheck: -27 + 45 = 18. It matches.\nAnswer: -27",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 92 - 75?",
+  "truth": 17,
+  "out": "92 - 75 = 17.\nCheck: 17 + 75 = 92. It matches.\nAnswer: 17",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 96 - 78?",
+  "truth": 18,
+  "out": "96 - 78 = 18.\nCheck: 18 + 78 = 96. It matches.\nAnswer: 18",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 13 - 24?",
+  "truth": -11,
+  "out": "13 - 24 = -11.\nCheck: -11 + 24 = 13. It matches.\nAnswer: -11",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 32 - 84?",
+  "truth": -52,
+  "out": "32 - 84 = -52.\nCheck: -52 + 84 = 32. It matches.\nAnswer: -52",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 14 - 23?",
+  "truth": -9,
+  "out": "14 - 23 = -9.\nCheck: -9 + 23 = 14. It matches.\nAnswer: -9",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 54 - 50?",
+  "truth": 4,
+  "out": "54 - 50 = 4.\nCheck: 4 + 50 = 54. It matches.\nAnswer: 4",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 87 + 75?",
+  "truth": 162,
+  "out": "87 + 75 = 162.\nCheck: 162 - 75 = 87. It matches.\nAnswer: 162",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 59 + 83?",
+  "truth": 142,
+  "out": "59 + 83 = 142.\nCheck: 142 - 83 = 59. It matches.\nAnswer: 142",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 42 - 15?",
+  "truth": 27,
+  "out": "42 - 15 = 27.\nCheck: 27 + 15 = 42. It matches.\nAnswer: 27",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 10 + 76?",
+  "truth": 86,
+  "out": "10 + 76 = 86.\nCheck: 86 - 76 = 10. It matches.\nAnswer: 86",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 56 + 65?",
+  "truth": 121,
+  "out": "56 + 65 = 121.\nCheck: 121 - 65 = 56. It matches.\nAnswer: 121",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 95 - 52?",
+  "truth": 43,
+  "out": "95 - 52 = 43.\nCheck: 43 + 52 = 95. It matches.\nAnswer: 43",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 94 - 25?",
+  "truth": 69,
+  "out": "94 - 25 = 69.\nCheck: 69 + 25 = 94. It matches.\nAnswer: 69",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 74 - 49?",
+  "truth": 25,
+  "out": "74 - 49 = 25.\nCheck: 25 + 49 = 74. It matches.\nAnswer: 25",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 51 - 61?",
+  "truth": -10,
+  "out": "51 - 61 = -10.\nCheck: -10 + 61 = 51. It matches.\nAnswer: -10",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 80 + 26?",
+  "truth": 106,
+  "out": "80 + 26 = 106.\nCheck: 106 - 26 = 80. It matches.\nAnswer: 106",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 63 - 95?",
+  "truth": -32,
+  "out": "63 - 95 = -32.\nCheck: -32 + 95 = 63. It matches.\nAnswer: -32",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 96 - 32?",
+  "truth": 64,
+  "out": "96 - 32 = 64.\nCheck: 64 + 32 = 96. It matches.\nAnswer: 64",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 61 + 80?",
+  "truth": 141,
+  "out": "61 + 80 = 141.\nCheck: 141 - 80 = 61. It matches.\nAnswer: 141",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 48 + 46?",
+  "truth": 94,
+  "out": "48 + 46 = 94.\nCheck: 94 - 46 = 48. It matches.\nAnswer: 94",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 65 - 84?",
+  "truth": -19,
+  "out": "65 - 84 = -19.\nCheck: -19 + 84 = 65. It matches.\nAnswer: -19",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 69 - 66?",
+  "truth": 3,
+  "out": "69 - 66 = 3.\nCheck: 3 + 66 = 69. It matches.\nAnswer: 3",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 96 - 37?",
+  "truth": 59,
+  "out": "96 - 37 = 59.\nCheck: 59 + 37 = 96. It matches.\nAnswer: 59",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 31 + 94?",
+  "truth": 125,
+  "out": "31 + 94 = 125.\nCheck: 125 - 94 = 31. It matches.\nAnswer: 125",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 46 - 75?",
+  "truth": -29,
+  "out": "46 - 75 = -29.\nCheck: -29 + 75 = 46. It matches.\nAnswer: -29",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 21 - 40?",
+  "truth": -19,
+  "out": "21 - 40 = -19.\nCheck: -19 + 40 = 21. It matches.\nAnswer: -19",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 38 + 35?",
+  "truth": 73,
+  "out": "38 + 35 = 73.\nCheck: 73 - 35 = 38. It matches.\nAnswer: 73",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 13 + 15?",
+  "truth": 28,
+  "out": "13 + 15 = 28.\nCheck: 28 - 15 = 13. It matches.\nAnswer: 28",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 70 + 88?",
+  "truth": 158,
+  "out": "70 + 88 = 168.\nCheck: 168 - 88 = 80, but it should be 70. That doesn't match. Wait, let me redo it.\nRedo: 70 + 88 = 158.\nCheck: 158 - 88 = 70. It matches.\nAnswer: 158",
+  "ok": true,
+  "backtracked": true
+ },
+ {
+  "q": "What is 68 + 63?",
+  "truth": 131,
+  "out": "68 + 63 = 131.\nCheck: 131 - 63 = 68. It matches.\nAnswer: 131",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 99 - 59?",
+  "truth": 40,
+  "out": "99 - 59 = 40.\nCheck: 40 + 59 = 99. It matches.\nAnswer: 40",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 61 + 41?",
+  "truth": 102,
+  "out": "61 + 41 = 102.\nCheck: 102 - 41 = 61. It matches.\nAnswer: 102",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 93 + 98?",
+  "truth": 191,
+  "out": "93 + 98 = 191.\nCheck: 191 - 98 = 93. It matches.\nAnswer: 191",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 23 + 64?",
+  "truth": 87,
+  "out": "23 + 64 = 87.\nCheck: 87 - 64 = 23. It matches.\nAnswer: 87",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 32 - 99?",
+  "truth": -67,
+  "out": "32 - 99 = -67.\nCheck: -67 + 99 = 32. It matches.\nAnswer: -67",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 16 + 81?",
+  "truth": 97,
+  "out": "16 + 81 = 97.\nCheck: 97 - 81 = 16. It matches.\nAnswer: 97",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 25 + 68?",
+  "truth": 93,
+  "out": "25 + 68 = 93.\nCheck: 93 - 68 = 25. It matches.\nAnswer: 93",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 69 - 95?",
+  "truth": -26,
+  "out": "69 - 95 = -26.\nCheck: -26 + 95 = 69. It matches.\nAnswer: -26",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 66 - 88?",
+  "truth": -22,
+  "out": "66 - 88 = -22.\nCheck: -22 + 88 = 66. It matches.\nAnswer: -22",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 80 + 67?",
+  "truth": 147,
+  "out": "80 + 67 = 147.\nCheck: 147 - 67 = 80. It matches.\nAnswer: 147",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 70 - 67?",
+  "truth": 3,
+  "out": "70 - 67 = 3.\nCheck: 3 + 67 = 60, but it should be 70. That doesn't match. Wait, let me redo it.\nRedo: 70 - 67 = 3.\nCheck: 3 + 67 = 60, but it should be 70. That doesn't match. Wait, let me redo it.\nRedo: 70 - 67 = 3.\nCheck: 3 + 67 =",
+  "ok": false,
+  "backtracked": true
+ },
+ {
+  "q": "What is 41 - 91?",
+  "truth": -50,
+  "out": "41 - 91 = -50.\nCheck: -50 + 91 = 41. It matches.\nAnswer: -50",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 76 + 72?",
+  "truth": 148,
+  "out": "76 + 72 = 148.\nCheck: 148 - 72 = 76. It matches.\nAnswer: 148",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 45 + 66?",
+  "truth": 111,
+  "out": "45 + 66 = 111.\nCheck: 111 - 66 = 45. It matches.\nAnswer: 111",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 46 - 40?",
+  "truth": 6,
+  "out": "46 - 40 = 6.\nCheck: 6 + 40 = 46. It matches.\nAnswer: 6",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 52 + 50?",
+  "truth": 102,
+  "out": "52 + 50 = 102.\nCheck: 102 - 50 = 52. It matches.\nAnswer: 102",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 27 + 29?",
+  "truth": 56,
+  "out": "27 + 29 = 56.\nCheck: 56 - 29 = 27. It matches.\nAnswer: 56",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 59 + 98?",
+  "truth": 157,
+  "out": "59 + 98 = 157.\nCheck: 157 - 98 = 59. It matches.\nAnswer: 157",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 37 - 18?",
+  "truth": 19,
+  "out": "37 - 18 = 19.\nCheck: 19 + 18 = 37. It matches.\nAnswer: 19",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 62 - 52?",
+  "truth": 10,
+  "out": "62 - 52 = 10.\nCheck: 10 + 52 = 62. It matches.\nAnswer: 10",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 63 + 17?",
+  "truth": 80,
+  "out": "63 + 17 = 80.\nCheck: 80 - 17 = 63. It matches.\nAnswer: 80",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 63 + 59?",
+  "truth": 122,
+  "out": "63 + 59 = 122.\nCheck: 122 - 59 = 63. It matches.\nAnswer: 122",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 83 - 58?",
+  "truth": 25,
+  "out": "83 - 58 = 25.\nCheck: 25 + 58 = 83. It matches.\nAnswer: 25",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 10 - 55?",
+  "truth": -45,
+  "out": "10 - 55 = -45.\nCheck: -45 + 55 = 10. It matches.\nAnswer: -45",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 59 + 63?",
+  "truth": 122,
+  "out": "59 + 63 = 122.\nCheck: 122 - 63 = 59. It matches.\nAnswer: 122",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 72 - 38?",
+  "truth": 34,
+  "out": "72 - 38 = 34.\nCheck: 34 + 38 = 72. It matches.\nAnswer: 34",
+  "ok": true,
+  "backtracked": false
+ },
+ {
+  "q": "What is 65 + 72?",
+  "truth": 137,
+  "out": "65 + 72 = 137.\nCheck: 137 - 72 = 65. It matches.\nAnswer: 137",
+  "ok": true,
+  "backtracked": false
+ }
+]

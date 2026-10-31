@@ -1,0 +1,6 @@
+[outputs/lora_rft2] 3-digit add/sub: 39/40 correct, backtracked 0 times
+[outputs/lora_rft2] multiplication: 34/40 correct, backtracked 0 times
+[outputs/lora_rft2] word problem: 40/40 correct, backtracked 0 times
+[outputs/lora_rft2] 3-term arithmetic: 38/40 correct
+[outputs/lora_rft2] exact division: 23/40 correct
+[outputs/lora_rft2] 4-digit add: 29/40 correct
